@@ -20,8 +20,8 @@ public class Ball
     private boolean gameOver;
     private BrickBreakerGame game;
 
-    private final String BALL_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\ball.png";
-    private final String SOUND_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\sounds\\quick-blip.wav";
+    private final String BALL_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\ball.png";
+    private final String SOUND_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\sounds\\quick-blip.wav";
     // encapsulation
     // accessors
     public int getX() {return x;}
