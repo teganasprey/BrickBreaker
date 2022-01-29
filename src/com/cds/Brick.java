@@ -18,7 +18,7 @@ public class Brick
     private Image bone;
     private int hits;
 
-    private final String BONE_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\brick.png";
+    private final String BONE_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\brick.png";
 
     // accessors
     public int getX() {return x;}
