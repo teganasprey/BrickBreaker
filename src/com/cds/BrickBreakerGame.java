@@ -33,9 +33,9 @@ public class BrickBreakerGame extends JPanel implements KeyListener, ActionListe
     private final int WIN_SCREEN = 4;
 
     // files containing images for the game
-    private final String TITLE_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\start_screen.jpg";
-    private final String LOSER_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\died_screen.jpg";
-    private final String WIN_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\died_screen.jpg";
+    private final String TITLE_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\start_screen.jpg";
+    private final String LOSER_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\died_screen.jpg";
+    private final String WIN_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\died_screen.jpg";
 
     // integer representations of brick patterns (should be an enum)
     private final int STAIRCASE = 1;
