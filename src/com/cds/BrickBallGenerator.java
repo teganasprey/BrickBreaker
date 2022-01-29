@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class BrickBallGenerator extends Brick
 {
-    private final String BONE_IMAGE_FILENAME = "C:\\Users\\Steven Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\brick.png";
+    private final String BONE_IMAGE_FILENAME = "C:\\Users\\Tegan Asprey\\source\\Java\\cds\\Brick_Breaker\\assets\\images\\brick.png";
     private Image bone;
     private BrickBreakerGame game;
 
